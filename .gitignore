@@ -4,3 +4,4 @@
 # But not these files
 !.gitignore
 !BuildPiKernel64bit.sh
+!applypatches.sh
